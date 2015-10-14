@@ -1,12 +1,19 @@
-Ejercicios
-======
 
-Directorio para los ejercicios.
+Proyecto IV 2016-2016
+===============
 
-## Cómo usarlo
 
-Ya deberías tener un *fork* de éste repositorio en tu cuenta particular. Al principio del curso, crea un fichero de objetivos. Cada vez que lo actualices, [haz un *pull request*](http://aprendegit.com/que-es-un-pull-request/) para poder incorporarlo aquí. Para evitar conflictos, es mejor que crees un directorio para tus ejercicios y, dentro de ese directorio, lo organices por temas. No hace falta que hagas un pull request para cada uno de los ejercicios, basta con que hagas uno por semana.
+Proyecto MaaS (Multimedia as a Service)
+---------------------------------------------
 
-## Sobre imágenes
+El proyecto se basa en la creación de un servicio para el acceso a un entorno multimedia para una completa gestión de imagenes, videos y música.
 
-**Por favor**, alojad las imágenes en servidores externos como PhotoBucket o el que os dé la gana. Las imágenes ocupan mucho y no aportan nada al repositorio. 
+El servicio debe ser accessible desde cualquier navegador web.
+
+Tendrá acceso autentificado mediante el uso de usuarios y contraseñas. Posiblemente mediante servicios como Google+ o como Facebook.
+
+La infraestructura a crear puede ser parecida al siguiente gráfico:
+
+![](http://i.imgur.com/DZsMrE1.png)
+
+
